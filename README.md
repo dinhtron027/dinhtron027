@@ -1,6 +1,6 @@
 # Hi there, I'm Nguyễn Đình Trọng 👋
 
-I am a Software Engineering student at Gia Dinh University, Ho Chi Minh City, Vietnam. I have a strong passion for DevOps, cloud infrastructure, CI/CD pipelines, and system reliability. Rather than just learning theory, I actively practice deploying, scaling, and troubleshooting real-world web applications on live production servers.
+I am a Software Engineering student at Gia Dinh University, Ho Chi Minh City, Vietnam. I have a strong foundation in **Object-Oriented Programming (OOP)** and a passion for DevOps, cloud infrastructure, CI/CD pipelines, and system reliability. I write code in **Java**, **Go**, and **Python**, and I am actively expanding my backend skills with **Spring Boot** while deploying and troubleshooting real-world web applications on live production servers.
 
 * 🎯 **Target Role:** DevOps Intern / Fresher DevOps Engineer
 * 📍 **Location:** Ho Chi Minh City, Vietnam
@@ -12,10 +12,10 @@ I am a Software Engineering student at Gia Dinh University, Ho Chi Minh City, Vi
 
 | Category | Badges |
 |---|---|
-| **OS & Scripting** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) |
-| **Cloud & Hosting** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white) |
+| **OS, Scripting & Languages** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| **Backend & Cloud** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) |
 | **DevOps & CI/CD** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) |
-| **Development** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
+| **Development & DB** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
 
 ---
 
@@ -57,6 +57,7 @@ Deploying and maintaining the project on a live production server has given me v
 
 I am continuously working to expand my infrastructure knowledge, focus on scalability, and improve system observability:
 
+* 🍃 **Spring Boot & Microservices architecture** (Backend development)
 * 🐳 **Kubernetes & Helm** (Container Orchestration & Packaging)
 * 🏗️ **Terraform** (Infrastructure as Code)
 * 🔄 **Jenkins & ArgoCD** (Advanced CI/CD and GitOps)
